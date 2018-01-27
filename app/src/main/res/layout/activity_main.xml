@@ -13,6 +13,7 @@
         android:scaleType="fitCenter"
         android:background="@color/goldenrod"
         android:src="@drawable/hld"
+        tools:ignore="ContentDescription"
         />
 
     <TextView
